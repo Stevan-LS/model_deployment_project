@@ -1,0 +1,12 @@
+# Data
+data/cifar
+data
+# Environment
+.venv
+env/
+
+# Cache
+scripts/__pycache__
+
+#PDF Files
+*.pdf

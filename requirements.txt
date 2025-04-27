@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+torch 
+torchvision 
+ipykernel
+tqdm
+streamlit
+fastapi[standard]
